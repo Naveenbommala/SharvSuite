@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "sharvsuite.client", "sharvsuite.client\sharvsuite.client.esproj", "{CF59FC70-A34B-FF50-BBBF-0DCAB6B279B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharvSuite.Server", "SharvSuite.Server\SharvSuite.Server.csproj", "{F6FC00C3-10F8-4CD2-9718-FDF455D8063C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF59FC70-A34B-FF50-BBBF-0DCAB6B279B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF59FC70-A34B-FF50-BBBF-0DCAB6B279B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF59FC70-A34B-FF50-BBBF-0DCAB6B279B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF59FC70-A34B-FF50-BBBF-0DCAB6B279B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FC00C3-10F8-4CD2-9718-FDF455D8063C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FC00C3-10F8-4CD2-9718-FDF455D8063C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FC00C3-10F8-4CD2-9718-FDF455D8063C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FC00C3-10F8-4CD2-9718-FDF455D8063C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA7DBE6F-B280-4E4F-82DC-FFFAB16333AC}
+	EndGlobalSection
+EndGlobal
